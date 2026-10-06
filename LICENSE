@@ -19,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Scope: this MIT license covers the SOURCE CODE in this repository (src/, tools/,
-audio/*.py, public/index.html, public/cover.html, build scripts, and the briefs/
-documentation). It does NOT cover the finished video, cover image, rendered frames,
-or the rendered soundtrack — see LICENSE-MEDIA.md.
