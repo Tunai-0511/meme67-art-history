@@ -1,0 +1,13 @@
+# generated / heavy / regenerable
+node_modules/
+frames/
+tiles_src/
+out/
+public/tiles/
+public/cover_src/
+audio/mix.wav
+audio/words/
+audio/__pycache__/
+ffmpeg2pass-*.log*
+.DS_Store
+*.mp4

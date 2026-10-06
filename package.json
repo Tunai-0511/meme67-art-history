@@ -1,0 +1,16 @@
+{
+  "name": "meme67-art-history",
+  "version": "1.0.0",
+  "description": "67 \u2014 A Brief History of Art: a procedural p5.js + p5.brush film",
+  "scripts": {
+    "timeline": "node tools/mktimeline.mjs"
+  },
+  "license": "MIT",
+  "type": "module",
+  "private": "true",
+  "dependencies": {
+    "p5": "^2.3.4",
+    "p5.brush": "^2.2.3",
+    "puppeteer-core": "^25.12.0"
+  }
+}
