@@ -1,0 +1,13 @@
+{
+ "song": [{"u": 0.85, "name": "stamp", "gain": 1.0}],
+ "ukiyo": [{"u": 0.4, "name": "stamp", "gain": 1.0}],
+ "xp": [
+  {"u": 0.42, "name": "click", "gain": 0.9}, {"u": 2.5, "name": "ding", "gain": 0.8}, {"u": 3.0, "name": "click", "gain": 0.9},
+  {"u": 3.1, "name": "thud", "gain": 0.35}, {"u": 3.25, "name": "thud", "gain": 0.3}, {"u": 3.4, "name": "thud", "gain": 0.25}
+ ],
+ "pop": [{"u": 0.18, "name": "impact", "gain": 0.8}, {"u": 1.96, "name": "whoosh", "gain": 0.7}],
+ "pixel": [{"u": 0.3, "name": "ding", "gain": 0.7}, {"u": 1.0, "name": "impact", "gain": 0.8}, {"u": 3.0, "name": "ding", "gain": 0.8}],
+ "tiktok": [{"u": 0.5, "name": "pop", "gain": 0.8}, {"u": 2.5, "name": "pop", "gain": 0.8}, {"u": 2.0, "name": "ding", "gain": 0.8}, {"u": 4.0, "name": "impact", "gain": 1.0}, {"u": 4.5, "name": "pop", "gain": 0.8}],
+ "medieval": [{"u": 1.0, "name": "ding", "gain": 0.6}, {"u": 3.0, "name": "ding", "gain": 0.6}],
+ "synth": [{"u": 0.0, "name": "whoosh", "gain": 0.5}]
+}
